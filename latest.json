@@ -1,6 +1,38 @@
 {
   "versions": [
     {
+      "ver": "2.2.7",
+      "channel": "main",
+      "notes": "ซูมคลิป/จอใหญ่ · F5 ปรับขนาดรูป/ต่อแถว · เริ่มแบบเลื่อน",
+      "built": "2026-11-16T18:35:37.4253321Z",
+      "files": [
+        {
+          "url": "https://github.com/nst17bpp/tamroy-download/releases/download/v2.2.7/TamRoy-v2.2.7-win64.zip",
+          "sha256": "708e764722b38234f74c8f3ce562175df827f25ccce94d99abf0e93bc89d426f",
+          "size": 1507677396,
+          "base": ""
+        },
+        {
+          "url": "https://github.com/nst17bpp/tamroy-download/releases/download/v2.2.7/TamRoy-v2.2.7-patch-from-2.2.4.zip",
+          "sha256": "86ea10c31abce6f9f2afaf75ae8f9898b440cf392acfc45756ae106c98912e38",
+          "size": 187029068,
+          "base": "2.2.4"
+        },
+        {
+          "url": "https://github.com/nst17bpp/tamroy-download/releases/download/v2.2.7/TamRoy-v2.2.7-patch-from-2.2.5.zip",
+          "sha256": "02e7d1d0436741317d4f63de2def02e871215a3c24b5525499fe1a7bd8c8e767",
+          "size": 187029068,
+          "base": "2.2.5"
+        },
+        {
+          "url": "https://github.com/nst17bpp/tamroy-download/releases/download/v2.2.7/TamRoy-v2.2.7-patch-from-2.2.6.zip",
+          "sha256": "814b1483ef932f33fd9713590638741cb1d076b5854a4a6ae6dda6901858330c",
+          "size": 186983327,
+          "base": "2.2.6"
+        }
+      ]
+    },
+    {
       "ver": "2.2.6",
       "channel": "main",
       "notes": "หน้าสถานะใหม่ ปุ่มเช็กอัปเดต · อัปเดตเล็กจากหลายเวอร์ชัน",
