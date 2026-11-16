@@ -1,6 +1,38 @@
 {
   "versions": [
     {
+      "ver": "2.2.6",
+      "channel": "main",
+      "notes": "หน้าสถานะใหม่ ปุ่มเช็กอัปเดต · อัปเดตเล็กจากหลายเวอร์ชัน",
+      "built": "2026-11-16T13:54:36.2966664Z",
+      "files": [
+        {
+          "url": "https://github.com/nst17bpp/tamroy-download/releases/download/v2.2.6/TamRoy-v2.2.6-win64.zip",
+          "sha256": "2f9fe31426e9ee68bf1828d3e853367a169ab306106bb1ae1a6a7d614490867e",
+          "size": 1507711532,
+          "base": ""
+        },
+        {
+          "url": "https://github.com/nst17bpp/tamroy-download/releases/download/v2.2.6/TamRoy-v2.2.6-patch-from-2.2.2.zip",
+          "sha256": "ff63f622d8d1bf39ccf81d20435263848215038258d2a11189614abf530c2ec3",
+          "size": 54121955,
+          "base": "2.2.2"
+        },
+        {
+          "url": "https://github.com/nst17bpp/tamroy-download/releases/download/v2.2.6/TamRoy-v2.2.6-patch-from-2.2.3.zip",
+          "sha256": "1764137bb06b9f6be063792786ab4ffed0011c4538e65e7d77f3bf621b3b0243",
+          "size": 54113390,
+          "base": "2.2.3"
+        },
+        {
+          "url": "https://github.com/nst17bpp/tamroy-download/releases/download/v2.2.6/TamRoy-v2.2.6-patch-from-2.2.4.zip",
+          "sha256": "a0da1c8922e33d62a3eadf171c4429d67b2c983fac894a71a2a88a308626184e",
+          "size": 54113390,
+          "base": "2.2.4"
+        }
+      ]
+    },
+    {
       "ver": "2.2.4",
       "channel": "main",
       "notes": "จัดโฟลเดอร์คดีใหม่ · แก้ทดสอบความเร็ว · อัปเดตผ่านปุ่มอนุมัติ",
